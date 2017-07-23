@@ -1,0 +1,11 @@
+com\dds\service\DDSService.class
+com\dds\hdl\utils\DBConnection.class
+com\dds\hdl\beans\TableConfigurationDetail.class
+com\dds\serviceImpl\DDSServiceImpl.class
+com\dds\hdl\beans\ConnectionDetail.class
+com\dds\hdl\dao\DDSServiceDao.class
+com\dds\hdl\beans\ModuleDetail.class
+com\dds\hdl\beans\TempTable.class
+com\dds\hdl\beans\TableDetail.class
+com\dds\controller\ControllerTest.class
+com\dds\bll\beans\DDSTable.class
